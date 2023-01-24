@@ -1,0 +1,7 @@
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\bin\Debug\Classes.exe.config
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\bin\Debug\Classes.exe
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\bin\Debug\Classes.pdb
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\obj\Debug\Classes.exe
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\obj\Debug\Classes.pdb
+C:\Users\Anja Puskas\Desktop\Z1_HCI\z1_anja\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
